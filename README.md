@@ -1,18 +1,28 @@
 Charte graphique
+
 Logo
-Affichez le logo ici.
 
-Couleurs
-color-0  #cbdad5
-color-1  #89a7b1
-color-2  #566981
-color-3  #3a415a
-color-4  #34344e
+![Logo](/image/logo.png)
 
-Icônes
+Couleurs :
+
+color-background { color: #FFDAB0; }
+
+color-nav-background-selected { color: #FF8903; }
+
+color-nav-font-selected { color: #000000; }
+
+color-nav-background { color: #000000; }
+
+color-nav-font { color: #818181; }
+
+color-font { color: #000000; }
+
+Icônes :
+
 Listez toutes vos icônes ici.
 
-Polices
+Polices :
 Roboto : https://fonts.google.com/specimen/Roboto
 
 Spécifiez à quels éléments doivent être appliqué chaque police.
@@ -24,7 +34,8 @@ Roboto medium 18px pour le titre de niveau 1 h2
 
 times new roman pour le body
 
-etc
-
 Maquettes
-Affichez toutes vos maquettes ici au format images (png ou jpeg).
+
+![Maquette contact top](/maquette/maquette-contact.PNG)
+![Maquette contact bot](/maquette/maquette-contact2.PNG)
+![Maquette qui sommes-nous](/maquette/maquette-qui_sommes-nous.PNG)

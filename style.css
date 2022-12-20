@@ -3,3 +3,10 @@
 .color-2 { color: #566981; }
 .color-3 { color: #3a415a; }
 .color-4 { color: #34344e; }
+
+.color-background { color: #FFDAB0; }
+.color-nav-background-selected { color: #FF8903; }
+.color-nav-font-selected { color: #000000; }
+.color-nav-background { color: #000000; }
+.color-nav-font { color: #818181; }
+.color-font { color: #000000; }
